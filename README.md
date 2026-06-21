@@ -1,4 +1,3 @@
-# ApexPlanet-Task1-Data-Immersion-and-Wrangling
 # ApexPlanet Internship – Task 1: Data Immersion & Wrangling
 
 ## Project Overview
